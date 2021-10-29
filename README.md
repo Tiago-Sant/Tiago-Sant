@@ -7,9 +7,9 @@
 
 - 😄 I'm currently looking for an opportunity to do area transition
 
-- 🌱 Fullstack Web Student at Let's Code. Scholarship I won competing with more than 40,000 applicants for 200 vacancies
+- 🌱 Fullstack Web Student at Let's Code. Scholarship where I deepened in Javascript, HTML and CSS. Now I started studying Angular 
 
-- 👨‍💻 I've been taking Ignite course at Rocketseat since 10/25/2021
+- 👨‍💻 I'm delving into Reac.js by taking the Ignite course at Rocketseat.
 
 - ⚡ I develop with ** React.js, JavaScript/Typescript, HTML, CSS**
 
@@ -25,21 +25,26 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+<h3 align="left">Current languages and tools:</h3>
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+  </div>	
+	
+<h3 align="left">Next Steps:</h3>
+  <div>
+    <a href="https://reactjs.org/" target="_blank"> <img  align="center" alt="React.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> </a>
+  <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>	  
+    <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
+  <a href="https://yarnpkg.com/" target="_blank" background-color="white"> <img align="center" alt="Yarn-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" > </a>
+  <a href="https://graphql.org/" target="_blank"> <img align="center" alt="GraphQl-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="Figma-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </a>  	  
+  </div>
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
-
+#
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -65,4 +70,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://angularjs.org/" target="_blank"> <img align="center" alt="Angular.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> </a>  
 -->
