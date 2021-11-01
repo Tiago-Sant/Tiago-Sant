@@ -1,5 +1,5 @@
 
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/Tiago-Sant/93320d4fbdb8afd818d2389f10148b1c/raw/d8db8a339f72d0288955e96ea9db9be0162e4284/githubcard.svg"/>
+<img align="right" height="500em" src="https://user-images.githubusercontent.com/82619418/139716330-a16a82ee-f3c3-43e9-88b5-aeba166bfc69.png"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Sant'Ana</h1>
 
 
