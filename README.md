@@ -3,15 +3,13 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Sant'Ana</h1>
 
 
-- 🔥 Junior Fron-end Web Developer  
-
-- 😄 I'm currently looking for an opportunity to do area transition
+- 👨‍💻 Junior Fron-end Web Developer in Webjump - Adobe commerce(Magento)
 
 - 🌱 Fullstack Web Student at Let's Code. Scholarship where I deepened in Javascript, HTML and CSS. Now I started studying Angular 
 
 - 👨‍💻 I'm delving into Reac.js by taking the Ignite course at Rocketseat.
 
-- ⚡ I develop with ** React.js, JavaScript/Typescript, HTML, CSS**
+- ⚡ I develop with ** Magento, React.js, JavaScript/Typescript, PHP, HTML, CSS**
 
 
 
@@ -28,6 +26,7 @@
 <h3 align="left">Current languages and tools:</h3>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
+	<a href="https://www.php.net/" target="_blank"> <img align="center" alt="php-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>	
