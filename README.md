@@ -1,15 +1,12 @@
 
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/82619418/139716330-a16a82ee-f3c3-43e9-88b5-aeba166bfc69.png"/>
+
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Sant'Ana</h1>
 
 
-- 👨‍💻 Junior Fron-end Web Developer in Webjump - Adobe commerce(Magento)
+- 👨‍💻 Fron-end Web Developer in Webjump - Adobe commerce(Magento)
 
-- 🌱 Fullstack Web Student at Let's Code. Scholarship where I deepened in Javascript, HTML and CSS. Now I started studying Angular 
 
-- 👨‍💻 I'm delving into Reac.js by taking the Ignite course at Rocketseat.
-
-- ⚡ I develop with ** Magento, React.js, JavaScript/Typescript, PHP, HTML, CSS**
+- ⚡ I develop with ** Magento, React.js, Vue.js JavaScript/Typescript, PHP, HTML, CSS**
 
 
 
@@ -21,7 +18,6 @@
 </a>
 </p>
 
-<br><br>
 
 <h3 align="left">Current languages and tools:</h3>
   <div>
@@ -29,11 +25,8 @@
 	<a href="https://www.php.net/" target="_blank"> <img align="center" alt="php-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
-  </div>	
-	
-<h3 align="left">Next Steps:</h3>
-  <div>
     <a href="https://reactjs.org/" target="_blank"> <img  align="center" alt="React.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> </a>
   <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>	  
     <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
