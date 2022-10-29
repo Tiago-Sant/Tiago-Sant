@@ -6,7 +6,7 @@
 - 👨‍💻 Fron-end Web Developer in Webjump - Adobe commerce(Magento)
 
 
-- ⚡ I develop with ** Magento, React.js, Vue.js JavaScript/Typescript, PHP, HTML, CSS**
+- ⚡ I develop with **Magento, React.js, Vue.js, JavaScript/Typescript, PHP, HTML, CSS(less, sass, styled components**
 
 
 
