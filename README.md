@@ -1,12 +1,12 @@
 
 
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Sant'Ana</h1>
+<h1 align="left">Hi dear, I'm Tiago Sant'Ana</h1>
 
 
-- 👨‍💻 Fron-end Web Developer in Webjump - Adobe commerce(Magento)
+- 👨‍💻 Fron-end Web Developer at Webjump - Adobe commerce(Magento)
 
 
-- ⚡ I develop with **Magento, React.js, Vue.js, JavaScript/Typescript, PHP, HTML, CSS(less, sass, styled components**
+- ⚡ I develop with **Magento, React.js, Vue.js, JavaScript/Typescript, PHP, HTML, CSS(less, sass, styled components)
 
 
 
