@@ -35,7 +35,7 @@
     <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="Figma-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </a>  	  
   </div>
-
+<!--
 #
 <br><br>
 
@@ -49,7 +49,7 @@
 <br><br>
 
 
-<!--
+
 **Tiago-Sant/Tiago-Sant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
