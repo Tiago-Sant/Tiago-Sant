@@ -21,19 +21,13 @@
 
 <h3 align="left">Current languages and tools:</h3>
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
-	<a href="https://www.php.net/" target="_blank"> <img align="center" alt="php-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
     <a href="https://reactjs.org/" target="_blank"> <img  align="center" alt="React.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> </a>
+    <a href="https://angular.io/" target="_blank"> <img align="center" alt="Angular-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> </a>
   <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>	  
-    <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
-  <a href="https://yarnpkg.com/" target="_blank" background-color="white"> <img align="center" alt="Yarn-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" > </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
   <a href="https://graphql.org/" target="_blank"> <img align="center" alt="GraphQl-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="Figma-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </a>  	  
   </div>
 <!--
 #
