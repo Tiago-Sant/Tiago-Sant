@@ -5,8 +5,12 @@
 
 - 👨‍💻 Fron-end Web Developer at Webjump
 
+- Certified Adobe **Expert Frontend Developer**
 
-- ⚡ I develop with Magento, Next.js, Vue.js, JavaScript/Typescript, PHP.
+  <img width="464" alt="certificado-frontend-adobe-expert" src="https://github.com/Tiago-Sant/Tiago-Sant/assets/82619418/5cd876bf-b420-4779-8cb7-2044e548d58c">
+
+
+- ⚡ I develop with Magento, Next.js, Vue.js, knockout.js JavaScript/Typescript, PHP.
 
 
 
