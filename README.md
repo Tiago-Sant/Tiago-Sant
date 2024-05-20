@@ -1,7 +1,4 @@
-
-
-<h1 align="left"> I'm Tiago Sant'Ana</h1>
-
+<h1 align="left"> I'm Tiago</h1>
 
 - 👨‍💻 Fron-end Web Developer at Webjump
 
@@ -9,10 +6,7 @@
 
   <img width="464" alt="certificado-frontend-adobe-expert" src="https://github.com/Tiago-Sant/Tiago-Sant/assets/82619418/5cd876bf-b420-4779-8cb7-2044e548d58c">
 
-
 - ⚡ I develop with Magento, Next.js, Vue.js, knockout.js JavaScript/Typescript, PHP.
-
-
 
 ## 📱 &nbsp;Social Link
 
@@ -21,7 +15,6 @@
   <img align="center" src="https://img.shields.io/badge/-Tiago_Santana-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-
 
 <h3 align="left">Current languages and tools:</h3>
   <div>
@@ -45,8 +38,6 @@
 </p>
 
 <br><br>
-
-
 
 **Tiago-Sant/Tiago-Sant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
